@@ -1054,3 +1054,713 @@ If U Seek Amy/audio/se/Wind7.ogg
 If U Seek Amy/audio/se/Wolf.m4a
 
 If U Seek Amy/audio/se/Wolf.ogg
+
+If U Seek Amy/data/Animations.json
+
+If U Seek Amy/data/Armors.json
+
+If U Seek Amy/data/Classes.json
+
+If U Seek Amy/data/CommonEvents.json
+
+If U Seek Amy/data/Enemies.json
+
+If U Seek Amy/data/Items.json
+
+If U Seek Amy/data/Skills.json
+
+If U Seek Amy/data/States.json
+
+If U Seek Amy/data/Tilesets.json
+
+If U Seek Amy/data/Troops.json
+
+If U Seek Amy/data/Weapons.json
+
+If U Seek Amy/fonts/gamefont.css
+
+If U Seek Amy/fonts/mplus-1m-regular.ttf
+
+If U Seek Amy/icon/icon.png
+
+If U Seek Amy/img/animations/Absorb.png
+
+If U Seek Amy/img/animations/ArrowSpecial.png
+
+If U Seek Amy/img/animations/Blow.png
+
+If U Seek Amy/img/animations/Breath.png
+
+If U Seek Amy/img/animations/Claw.png
+
+If U Seek Amy/img/animations/ClawPhoton.png
+
+If U Seek Amy/img/animations/ClawSpecial1.png
+
+If U Seek Amy/img/animations/ClawSpecial2.png
+
+If U Seek Amy/img/animations/Cure1.png
+
+If U Seek Amy/img/animations/Cure2.png
+
+If U Seek Amy/img/animations/Cure3.png
+
+If U Seek Amy/img/animations/Cure4.png
+
+If U Seek Amy/img/animations/Curse.png
+
+If U Seek Amy/img/animations/Darkness1.png
+
+If U Seek Amy/img/animations/Darkness2.png
+
+If U Seek Amy/img/animations/Darkness3.png
+
+If U Seek Amy/img/animations/Darkness4.png
+
+If U Seek Amy/img/animations/Darkness5.png
+
+If U Seek Amy/img/animations/Earth1.png
+
+If U Seek Amy/img/animations/Earth2.png
+
+If U Seek Amy/img/animations/Earth3.png
+
+If U Seek Amy/img/animations/Earth4.png
+
+If U Seek Amy/img/animations/Earth5.png
+
+If U Seek Amy/img/animations/Explosion1.png
+
+If U Seek Amy/img/animations/Explosion2.png
+
+If U Seek Amy/img/animations/Fire1.png
+
+If U Seek Amy/img/animations/Fire2.png
+
+If U Seek Amy/img/animations/Fire3.png
+
+If U Seek Amy/img/animations/Flash.png
+
+If U Seek Amy/img/animations/Gun1.png
+
+If U Seek Amy/img/animations/Gun2.png
+
+If U Seek Amy/img/animations/Gun3.png
+
+If U Seek Amy/img/animations/Hit1.png
+
+If U Seek Amy/img/animations/Hit2.png
+
+If U Seek Amy/img/animations/HitFire.png
+
+If U Seek Amy/img/animations/HitIce.png
+
+If U Seek Amy/img/animations/HitPhoton.png
+
+If U Seek Amy/img/animations/HitSpecial1.png
+
+If U Seek Amy/img/animations/HitSpecial2.png
+
+If U Seek Amy/img/animations/HitThunder.png
+
+If U Seek Amy/img/animations/Holy1.png
+
+If U Seek Amy/img/animations/Holy2.png
+
+If U Seek Amy/img/animations/Holy3.png
+
+If U Seek Amy/img/animations/Holy4.png
+
+If U Seek Amy/img/animations/Holy5.png
+
+If U Seek Amy/img/animations/Howl.png
+
+If U Seek Amy/img/animations/Ice1.png
+
+If U Seek Amy/img/animations/Ice2.png
+
+If U Seek Amy/img/animations/Ice3.png
+
+If U Seek Amy/img/animations/Ice4.png
+
+If U Seek Amy/img/animations/Ice5.png
+
+If U Seek Amy/img/animations/Laser1.png
+
+If U Seek Amy/img/animations/Laser2.png
+
+If U Seek Amy/img/animations/Light1.png
+
+If U Seek Amy/img/animations/Light2.png
+
+If U Seek Amy/img/animations/Light3.png
+
+If U Seek Amy/img/animations/Light4.png
+
+If U Seek Amy/img/animations/Magic1.png
+
+If U Seek Amy/img/animations/Magic2.png
+
+If U Seek Amy/img/animations/Meteor.png
+
+If U Seek Amy/img/animations/Mist.png
+
+If U Seek Amy/img/animations/Pollen.png
+
+If U Seek Amy/img/animations/PreSpecial1.png
+
+If U Seek Amy/img/animations/PreSpecial2.png
+
+If U Seek Amy/img/animations/PreSpecial3.png
+
+If U Seek Amy/img/animations/Recovery1.png
+
+If U Seek Amy/img/animations/Recovery2.png
+
+If U Seek Amy/img/animations/Recovery3.png
+
+If U Seek Amy/img/animations/Recovery4.png
+
+If U Seek Amy/img/animations/Recovery5.png
+
+If U Seek Amy/img/animations/Revival1.png
+
+If U Seek Amy/img/animations/Revival2.png
+
+If U Seek Amy/img/animations/Slash.png
+
+If U Seek Amy/img/animations/SlashFire.png
+
+If U Seek Amy/img/animations/SlashIce.png
+
+If U Seek Amy/img/animations/SlashPhoton.png
+
+If U Seek Amy/img/animations/SlashSpecial1.png
+
+If U Seek Amy/img/animations/SlashSpecial2.png
+
+If U Seek Amy/img/animations/SlashSpecial3.png
+
+If U Seek Amy/img/animations/SlashThunder.png
+
+If U Seek Amy/img/animations/Song.png
+
+If U Seek Amy/img/animations/Sonic.png
+
+If U Seek Amy/img/animations/Special1.png
+
+If U Seek Amy/img/animations/Special2.png
+
+If U Seek Amy/img/animations/Special3.png
+
+If U Seek Amy/img/animations/StateChaos.png
+
+If U Seek Amy/img/animations/StateDark.png
+
+If U Seek Amy/img/animations/StateDeath.png
+
+If U Seek Amy/img/animations/StateDown1.png
+
+If U Seek Amy/img/animations/StateDown2.png
+
+If U Seek Amy/img/animations/StateDown3.png
+
+If U Seek Amy/img/animations/StateParalys.png
+
+If U Seek Amy/img/animations/StatePoison.png
+
+If U Seek Amy/img/animations/StateSilent.png
+
+If U Seek Amy/img/animations/StateSleep.png
+
+If U Seek Amy/img/animations/StateUp1.png
+
+If U Seek Amy/img/animations/StateUp2.png
+
+If U Seek Amy/img/animations/Stick.png
+
+If U Seek Amy/img/animations/StickPhoton.png
+
+If U Seek Amy/img/animations/StickSpecial1.png
+
+If U Seek Amy/img/animations/StickSpecial2.png
+
+If U Seek Amy/img/animations/StickSpecial3.png
+
+If U Seek Amy/img/animations/Thunder1.png
+
+If U Seek Amy/img/animations/Thunder2.png
+
+If U Seek Amy/img/animations/Thunder3.png
+
+If U Seek Amy/img/animations/Thunder4.png
+
+If U Seek Amy/img/animations/Thunder5.png
+
+If U Seek Amy/img/animations/Water1.png
+
+If U Seek Amy/img/animations/Water2.png
+
+If U Seek Amy/img/animations/Water3.png
+
+If U Seek Amy/img/animations/Water4.png
+
+If U Seek Amy/img/animations/Water5.png
+
+If U Seek Amy/img/animations/Wind1.png
+
+If U Seek Amy/img/animations/Wind2.png
+
+If U Seek Amy/img/animations/Wind3.png
+
+If U Seek Amy/img/animations/Wind4.png
+
+If U Seek Amy/img/animations/Wind5.png
+
+If U Seek Amy/img/battlebacks1/Castle1.png
+
+If U Seek Amy/img/battlebacks1/Castle2.png
+
+If U Seek Amy/img/battlebacks1/Clouds.png
+
+If U Seek Amy/img/battlebacks1/Cobblestones1.png
+
+If U Seek Amy/img/battlebacks1/Cobblestones2.png
+
+If U Seek Amy/img/battlebacks1/Cobblestones3.png
+
+If U Seek Amy/img/battlebacks1/Cobblestones4.png
+
+If U Seek Amy/img/battlebacks1/Cobblestones5.png
+
+If U Seek Amy/img/battlebacks1/CobblestonesPool.png
+
+If U Seek Amy/img/battlebacks1/Crystal.png
+
+If U Seek Amy/img/battlebacks1/DarkSpace.png
+
+If U Seek Amy/img/battlebacks1/DecorativeTile.png
+
+If U Seek Amy/img/battlebacks1/DemonCastle1.png
+
+If U Seek Amy/img/battlebacks1/DemonCastle2.png
+
+If U Seek Amy/img/battlebacks1/DemonicWorld.png
+
+If U Seek Amy/img/battlebacks1/Desert.png
+
+If U Seek Amy/img/battlebacks1/Dirt1.png
+
+If U Seek Amy/img/battlebacks1/Dirt2.png
+
+If U Seek Amy/img/battlebacks1/DirtField.png
+
+If U Seek Amy/img/battlebacks1/FaceTile.png
+
+If U Seek Amy/img/battlebacks1/Factory.png
+
+If U Seek Amy/img/battlebacks1/Grassland.png
+
+If U Seek Amy/img/battlebacks1/GrassMaze.png
+
+If U Seek Amy/img/battlebacks1/GrassMazePool.png
+
+If U Seek Amy/img/battlebacks1/IceCave.png
+
+If U Seek Amy/img/battlebacks1/InBody.png
+
+If U Seek Amy/img/battlebacks1/Lava1.png
+
+If U Seek Amy/img/battlebacks1/Lava2.png
+
+If U Seek Amy/img/battlebacks1/LavaCave.png
+
+If U Seek Amy/img/battlebacks1/Meadow.png
+
+If U Seek Amy/img/battlebacks1/PoisonSwamp.png
+
+If U Seek Amy/img/battlebacks1/Road1.png
+
+If U Seek Amy/img/battlebacks1/Road2.png
+
+If U Seek Amy/img/battlebacks1/Road3.png
+
+If U Seek Amy/img/battlebacks1/RockCave.png
+
+If U Seek Amy/img/battlebacks1/Ruins1.png
+
+If U Seek Amy/img/battlebacks1/Ruins2.png
+
+If U Seek Amy/img/battlebacks1/Ruins3.png
+
+If U Seek Amy/img/battlebacks1/Ruins4.png
+
+If U Seek Amy/img/battlebacks1/Ruins5.png
+
+If U Seek Amy/img/battlebacks1/Sand.png
+
+If U Seek Amy/img/battlebacks1/Ship.png
+
+If U Seek Amy/img/battlebacks1/Sky.png
+
+If U Seek Amy/img/battlebacks1/Snowfield.png
+
+If U Seek Amy/img/battlebacks1/Tent.png
+
+If U Seek Amy/img/battlebacks1/Translucent.png
+
+If U Seek Amy/img/battlebacks1/Wasteland.png
+
+If U Seek Amy/img/battlebacks1/WireMesh.png
+
+If U Seek Amy/img/battlebacks1/Wood1.png
+
+If U Seek Amy/img/battlebacks1/Wood2.png
+
+If U Seek Amy/img/battlebacks2/Brick.png
+
+If U Seek Amy/img/battlebacks2/Bridge.png
+
+If U Seek Amy/img/battlebacks2/Castle1.png
+
+If U Seek Amy/img/battlebacks2/Castle2.png
+
+If U Seek Amy/img/battlebacks2/Castle3.png
+
+If U Seek Amy/img/battlebacks2/Cliff.png
+
+If U Seek Amy/img/battlebacks2/Clouds.png
+
+If U Seek Amy/img/battlebacks2/Crystal.png
+
+If U Seek Amy/img/battlebacks2/DarkSpace.png
+
+If U Seek Amy/img/battlebacks2/DemonCastle1.png
+
+If U Seek Amy/img/battlebacks2/DemonCastle2.png
+
+If U Seek Amy/img/battlebacks2/DemonCastle3.png
+
+If U Seek Amy/img/battlebacks2/DemonicWorld.png
+
+If U Seek Amy/img/battlebacks2/Desert.png
+
+If U Seek Amy/img/battlebacks2/DirtCave.png
+
+If U Seek Amy/img/battlebacks2/Forest.png
+
+If U Seek Amy/img/battlebacks2/Fort1.png
+
+If U Seek Amy/img/battlebacks2/Fort2.png
+
+If U Seek Amy/img/battlebacks2/Grassland.png
+
+If U Seek Amy/img/battlebacks2/GrassMaze.png
+
+If U Seek Amy/img/battlebacks2/IceCave.png
+
+If U Seek Amy/img/battlebacks2/IceMaze.png
+
+If U Seek Amy/img/battlebacks2/InBody.png
+
+If U Seek Amy/img/battlebacks2/Lava.png
+
+If U Seek Amy/img/battlebacks2/LavaCave.png
+
+If U Seek Amy/img/battlebacks2/Metal.png
+
+If U Seek Amy/img/battlebacks2/Mine.png
+
+If U Seek Amy/img/battlebacks2/PoisonSwamp.png
+
+If U Seek Amy/img/battlebacks2/Port.png
+
+If U Seek Amy/img/battlebacks2/RockCave.png
+
+If U Seek Amy/img/battlebacks2/Room1.png
+
+If U Seek Amy/img/battlebacks2/Room2.png
+
+If U Seek Amy/img/battlebacks2/Room3.png
+
+If U Seek Amy/img/battlebacks2/Ruins1.png
+
+If U Seek Amy/img/battlebacks2/Ruins2.png
+
+If U Seek Amy/img/battlebacks2/Ship.png
+
+If U Seek Amy/img/battlebacks2/Sky.png
+
+If U Seek Amy/img/battlebacks2/Snowfield.png
+
+If U Seek Amy/img/battlebacks2/Stone1.png
+
+If U Seek Amy/img/battlebacks2/Stone2.png
+
+If U Seek Amy/img/battlebacks2/Stone3.png
+
+If U Seek Amy/img/battlebacks2/Temple.png
+
+If U Seek Amy/img/battlebacks2/Tent.png
+
+If U Seek Amy/img/battlebacks2/Tower.png
+
+If U Seek Amy/img/battlebacks2/Town1.png
+
+If U Seek Amy/img/battlebacks2/Town2.png
+
+If U Seek Amy/img/battlebacks2/Town3.png
+
+If U Seek Amy/img/battlebacks2/Town4.png
+
+If U Seek Amy/img/battlebacks2/Town5.png
+
+If U Seek Amy/img/battlebacks2/Wasteland.png
+
+If U Seek Amy/img/characters/!$Gate1.png
+
+If U Seek Amy/img/characters/!$Gate2.png
+
+If U Seek Amy/img/characters/!Chest.png
+
+If U Seek Amy/img/characters/!Crystal.png
+
+If U Seek Amy/img/characters/!Door1.png
+
+If U Seek Amy/img/characters/!Door2.png
+
+If U Seek Amy/img/characters/!Flame.png
+
+If U Seek Amy/img/characters/!Other1.png
+
+If U Seek Amy/img/characters/!Other2.png
+
+If U Seek Amy/img/characters/!SF_Door1.png
+
+If U Seek Amy/img/characters/!SF_Door2.png
+
+If U Seek Amy/img/characters/!Switch1.png
+
+If U Seek Amy/img/characters/!Switch2.png
+
+If U Seek Amy/img/characters/$BigMonster1.png
+
+If U Seek Amy/img/characters/$BigMonster2.png
+
+If U Seek Amy/img/characters/Actor1.png
+
+If U Seek Amy/img/characters/Actor2.png
+
+If U Seek Amy/img/characters/Actor3.png
+
+If U Seek Amy/img/characters/Damage1.png
+
+If U Seek Amy/img/characters/Damage2.png
+
+If U Seek Amy/img/characters/Damage3.png
+
+If U Seek Amy/img/characters/Evil.png
+
+If U Seek Amy/img/characters/Monster.png
+
+If U Seek Amy/img/characters/Nature.png
+
+If U Seek Amy/img/characters/People1.png
+
+If U Seek Amy/img/characters/People2.png
+
+If U Seek Amy/img/characters/People3.png
+
+If U Seek Amy/img/characters/People4.png
+
+If U Seek Amy/img/characters/Vehicle.png
+
+If U Seek Amy/img/enemies/Actor1_3.png
+
+If U Seek Amy/img/enemies/Actor1_4.png
+
+If U Seek Amy/img/enemies/Actor1_5.png
+
+If U Seek Amy/img/enemies/Actor1_6.png
+
+If U Seek Amy/img/enemies/Actor1_7.png
+
+If U Seek Amy/img/enemies/Actor2_1.png
+
+If U Seek Amy/img/enemies/Actor2_2.png
+
+If U Seek Amy/img/enemies/Actor2_3.png
+
+If U Seek Amy/img/enemies/Actor2_4.png
+
+If U Seek Amy/img/enemies/Actor2_5.png
+
+If U Seek Amy/img/enemies/Actor2_6.png
+
+If U Seek Amy/img/enemies/Actor3_1.png
+
+If U Seek Amy/img/enemies/Actor3_2.png
+
+If U Seek Amy/img/enemies/Actor3_5.png
+
+If U Seek Amy/img/enemies/Actor3_6.png
+
+If U Seek Amy/img/enemies/Angel.png
+
+If U Seek Amy/img/enemies/Assassin.png
+
+If U Seek Amy/img/enemies/Bat.png
+
+If U Seek Amy/img/enemies/Behemoth.png
+
+If U Seek Amy/img/enemies/Captain.png
+
+If U Seek Amy/img/enemies/Cerberus.png
+
+If U Seek Amy/img/enemies/Chimera.png
+
+If U Seek Amy/img/enemies/Cockatrice.png
+
+If U Seek Amy/img/enemies/Darklord-final.png
+
+If U Seek Amy/img/enemies/Darklord.png
+
+If U Seek Amy/img/enemies/Death.png
+
+If U Seek Amy/img/enemies/Demon.png
+
+If U Seek Amy/img/enemies/Dragon.png
+
+If U Seek Amy/img/enemies/Earthspirit.png
+
+If U Seek Amy/img/enemies/Evilgod.png
+
+If U Seek Amy/img/enemies/Fairy.png
+
+If U Seek Amy/img/enemies/Fanatic.png
+
+If U Seek Amy/img/enemies/Firespirit.png
+
+If U Seek Amy/img/enemies/Gargoyle.png
+
+If U Seek Amy/img/enemies/Garuda.png
+
+If U Seek Amy/img/enemies/Gazer.png
+
+If U Seek Amy/img/enemies/General_f.png
+
+If U Seek Amy/img/enemies/General_m.png
+
+If U Seek Amy/img/enemies/Ghost.png
+
+If U Seek Amy/img/enemies/God.png
+
+If U Seek Amy/img/enemies/Goddess.png
+
+If U Seek Amy/img/enemies/Hornet.png
+
+If U Seek Amy/img/enemies/Imp.png
+
+If U Seek Amy/img/enemies/Irongiant.png
+
+If U Seek Amy/img/enemies/Jellyfish.png
+
+If U Seek Amy/img/enemies/Lamia.png
+
+If U Seek Amy/img/enemies/Mage.png
+
+If U Seek Amy/img/enemies/Mimic.png
+
+If U Seek Amy/img/enemies/Minotaur.png
+
+If U Seek Amy/img/enemies/Ogre.png
+
+If U Seek Amy/img/enemies/Orc.png
+
+If U Seek Amy/img/enemies/Plant.png
+
+If U Seek Amy/img/enemies/Puppet.png
+
+If U Seek Amy/img/enemies/Rat.png
+
+If U Seek Amy/img/enemies/Rogue.png
+
+If U Seek Amy/img/enemies/Sahuagin.png
+
+If U Seek Amy/img/enemies/Scorpion.png
+
+If U Seek Amy/img/enemies/Skeleton.png
+
+If U Seek Amy/img/enemies/Slime.png
+
+If U Seek Amy/img/enemies/Snake.png
+
+If U Seek Amy/img/enemies/Soldier.png
+
+If U Seek Amy/img/enemies/Spider.png
+
+If U Seek Amy/img/enemies/Succubus.png
+
+If U Seek Amy/img/enemies/Swordsman.png
+
+If U Seek Amy/img/enemies/Vampire.png
+
+If U Seek Amy/img/enemies/Waterspirit.png
+
+If U Seek Amy/img/enemies/Werewolf.png
+
+If U Seek Amy/img/enemies/Willowisp.png
+
+If U Seek Amy/img/enemies/Windspirit.png
+
+If U Seek Amy/img/enemies/Zombie.png
+
+If U Seek Amy/img/faces/Actor1.png
+
+If U Seek Amy/img/faces/Actor2.png
+
+If U Seek Amy/img/faces/Actor3.png
+
+If U Seek Amy/img/faces/Evil.png
+
+If U Seek Amy/img/faces/Monster.png
+
+If U Seek Amy/img/faces/Nature.png
+
+If U Seek Amy/img/faces/People1.png
+
+If U Seek Amy/img/faces/People2.png
+
+If U Seek Amy/img/faces/People3.png
+
+If U Seek Amy/img/faces/People4.png
+
+If U Seek Amy/img/parallaxes/BlueSky.png
+
+If U Seek Amy/img/parallaxes/CloudySky1.png
+
+If U Seek Amy/img/parallaxes/CloudySky2.png
+
+If U Seek Amy/img/parallaxes/DarkSpace1.png
+
+If U Seek Amy/img/parallaxes/DarkSpace2.png
+
+If U Seek Amy/img/parallaxes/Mountains1.png
+
+If U Seek Amy/img/parallaxes/Mountains2.png
+
+If U Seek Amy/img/parallaxes/Mountains3.png
+
+If U Seek Amy/img/parallaxes/Mountains4.png
+
+If U Seek Amy/img/parallaxes/Mountains5.png
+
+If U Seek Amy/img/parallaxes/Ocean1.png
+
+If U Seek Amy/img/parallaxes/Ocean2.png
+
+If U Seek Amy/img/parallaxes/SeaofClouds.png
+
+If U Seek Amy/img/parallaxes/StarlitSky.png
+
+If U Seek Amy/img/parallaxes/Sunset.png
