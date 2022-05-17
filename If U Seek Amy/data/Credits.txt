@@ -1,7 +1,7 @@
 Text that appears outside of the block tags
 will not display in the credits scene
 
-<block:-1,-1,10,10,offbot,center,BritneyTitle>
+<block:-1,-1,10,10,offbot,center,amy2>
 CREDITS
 
 \c[2]Designer and Writer
@@ -18,7 +18,8 @@ RPG Maker MV
 
 \c[2]Thanks
 Erwan <3
-Galerie Galerie
+Marie-Charlotte Castonguay-Harvey
+Sophie Latouche
 Britney Spears
 </block>
 
