@@ -1536,7 +1536,7 @@ SoundManager.loadSystemSound = function(n) {
 };
 
 SoundManager.playSystemSound = function(n) {
-    if ($dataSystem) {
+    if ($dataSystem && !$gameSwitches.value(12)) {
         AudioManager.playStaticSe($dataSystem.sounds[n]);
     }
 };
