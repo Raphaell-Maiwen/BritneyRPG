@@ -5,7 +5,7 @@ will not display in the credits scene
 CREDITS
 
 \c[2]Designer and Writer
-Raphaëll Maïwen
+Raphaëll Britney Maïwen
 
 \c[2]Engine
 RPG Maker MV
