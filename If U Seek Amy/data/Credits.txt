@@ -22,6 +22,7 @@ Marie-Charlotte Castonguay-Harvey
 Sophie Latouche
 Britney Spears
 \v[3]
+
 </block>
 
 <block:-1,0,10,10,100,right>
