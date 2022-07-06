@@ -6,5 +6,6 @@ var $plugins =
 {"name":"GALV_RollCredits","status":true,"description":"(v.1.5) A plugin that calls a new scene to display scrolling information located in an external text file.","parameters":{"Folder":"data","Skippable":"true","Block Skipping":"true","Title Menu":"Credits","Title Credits Music":"Circus_80sRemix"}},
 {"name":"NE_KeyboardWindow","status":true,"description":"v1.1.0 This allows to create a keyboard compatible window;","parameters":{"Allowed charset":"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ?=()/&%$\"!^<>-.,;0123456789+-/*\\"}},
 {"name":"YEP_MoveRouteCore","status":true,"description":"v1.04 Expand the number of movement options for the move\nroute events using this plugin.","parameters":{}},
-{"name":"YSP_VideoPlayer","status":true,"description":"v1.0.0 Plugin used for playing video.","parameters":{}}
+{"name":"YSP_VideoPlayer","status":true,"description":"v1.0.0 Plugin used for playing video.","parameters":{}},
+{"name":"Olivia_MapDisplayNameCore","status":true,"description":"<MapDisplayNameCore> for RPG Maker MV version 1.6.1.","parameters":{"":"","ATTENTION!!!":"READ THE HELP FILE","Text Distance":"80","Window Height":"36","Y Position":"","Starting Y":"18","Middle Y":"48","Ending Y":"78","Fade":"","Fade In Time":"60","Middle Time":"60","Fade Out Time":"60","Dim Color":"","Dim Color 1":"rgba(0, 0, 0, 0.6)","Dim Color 2":"rgba(0, 0, 0, 0)"}}
 ];

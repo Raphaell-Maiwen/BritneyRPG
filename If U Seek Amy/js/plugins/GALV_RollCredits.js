@@ -118,6 +118,7 @@ Galv.CRED.file.getString = function(filePath) {
 	request.overrideMimeType('application/json');
 	request.onload = function() {
 		if (request.status < 400) {
+			if($gameVariables.value(3) == 0) $gameVariables.setValue(3, " ");
 			Galv.CRED.createCreds(request.responseText);
 		}
 	};
