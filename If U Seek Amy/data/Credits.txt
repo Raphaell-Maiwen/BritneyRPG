@@ -1,7 +1,7 @@
 Text that appears outside of the block tags
 will not display in the credits scene
 
-<block:-1,-1,10,10,offbot,center,amy2>
+<block:-1,-3,10,10,offbot,center,amy2>
 CREDITS
 
 \c[2]Designer and Writer
