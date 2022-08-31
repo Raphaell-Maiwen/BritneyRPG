@@ -7,24 +7,77 @@ CREDITS
 \c[2]Designer and Writer
 Raphaëll Britney Maïwen
 
-\c[2]Engine
+\c[2]Engine and Artwork
 RPG Maker MV
 
-\c[2]Plugin Programmer
-Galv
+\c[2]Plugins Developpers
+Galv (Credits)
 
-\c[2]Artwork
-RPG Maker MV
+Bluemoon (Keyboard Input Window)
+
+Fallen Angel Olivia (Map Display Name Core)
+
+Dr. Yami (Video Player for RPG Maker MV)
+
+\c[2]Raphaëll's sprite
+Jean-Philippe Perreault
+
+\c[2] Santa Claus' sprite
+byBibo
+
+\c[2]Songs (All by Britney, except On a Roll)
+If U Seek Amy
+
+If U Seek Amy U-Tern Remix
+
+State of Grace (Unreleased song)
+
+Britney Spears U.S.S.R. National Anthem 
+	- William Maranci Mashups
+
+My Only Wish (This Year)
+
+Ariana Grande, Step On Up (Blackout Version) 
+	- frenchfri mashups
+
+Break the Ice - Jason Nevins Remix
+
+Toxic - Gregory Douglass
+
+Sugarfall (Unreleased song)
+
+On a Roll - Ashley O
+
+Baby One More Time (Medieval Style) - DJ MÖNCH
+
+Mona Lisa
+
+Circus (1983) | exile synthpop remix
+
+Toxic - Twelve Tone Systems 80s remix
 
 \c[2]Thanks
-Erwan <3
-Marie-Charlotte Castonguay-Harvey
-Sophie Latouche
 Britney Spears
+
+Erwan <3
+
+Marie-Charlotte Castonguay-Harvey
+
+Sophie Latouche
+
+Roby Provost
+
+GamePlay Space
+
 \v[3]
+
+
+\c[2]Coproduced by Galerie Galerie 
+\c[2](www.galeriegalerieweb.com), with the
+\c[2]financial support of the Canada Council for the Arts
 
 </block>
 
 <block:999,0,10,10,300,center,Tower1>
-THE END
+Thanks for playing!
 </block>
