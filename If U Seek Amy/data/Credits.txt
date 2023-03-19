@@ -4,13 +4,13 @@ will not display in the credits scene
 <block:-1,-3,10,10,offbot,center,amy2>
 CREDITS
 
-\c[2]Designer and Writer
+\c[2]Designer et Écrivaine
 Raphaëll Britney Maïwen
 
-\c[2]Engine and Artwork
+\c[2]Moteur de jeu et sprites
 RPG Maker MV
 
-\c[2]Plugins Developpers
+\c[2]Développeurs de Plugins
 Galv (Credits)
 
 Bluemoon (Keyboard Input Window)
@@ -19,13 +19,13 @@ Fallen Angel Olivia (Map Display Name Core)
 
 Dr. Yami (Video Player for RPG Maker MV)
 
-\c[2]Raphaëll's sprite
+\c[2]Le sprite de Raphaëll
 Jean-Philippe Perreault
 
-\c[2] Santa Claus' sprite
+\c[2]Le sprite du Père Noël
 byBibo
 
-\c[2]Songs (All by Britney, except On a Roll)
+\c[2]Chansons (Toutes de Britney, excepté On a Roll)
 If U Seek Amy
 
 If U Seek Amy U-Tern Remix
@@ -56,7 +56,7 @@ Circus (1983) | exile synthpop remix
 
 Toxic - Twelve Tone Systems 80s remix
 
-\c[2]Thanks
+\c[2]Remerciements
 Britney Spears
 
 Erwan <3
@@ -72,12 +72,12 @@ GamePlay Space
 \v[3]
 
 
-\c[2]Coproduced by Galerie Galerie 
-\c[2](www.galeriegalerieweb.com), with the
-\c[2]financial support of the Canada Council for the Arts
+\c[2]Co-produit par Galerie Galerie 
+\c[2](www.galeriegalerieweb.com), avec le
+\c[2]soutien financier du Conseil des arts du Canada
 
 </block>
 
 <block:999,0,10,10,300,center,Tower1>
-Thanks for playing!
+Merci d'avoir joué!
 </block>

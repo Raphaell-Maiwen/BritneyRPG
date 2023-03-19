@@ -3,7 +3,7 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Basic plugin for manipulating important parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"GALV_RollCredits","status":true,"description":"(v.1.5) A plugin that calls a new scene to display scrolling information located in an external text file.","parameters":{"Folder":"data","Skippable":"true","Block Skipping":"true","Title Menu":"Credits","Title Credits Music":"Circus_80sRemix"}},
+{"name":"GALV_RollCredits","status":true,"description":"(v.1.5) A plugin that calls a new scene to display scrolling information located in an external text file.","parameters":{"Folder":"data","Skippable":"true","Block Skipping":"true","Title Menu":"Crédits","Title Credits Music":"Circus_80sRemix"}},
 {"name":"NE_KeyboardWindow","status":true,"description":"v1.1.0 This allows to create a keyboard compatible window;","parameters":{"Allowed charset":"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ?=()/&%$\"!^<>-.,;0123456789+-/*\\"}},
 {"name":"YEP_MoveRouteCore","status":true,"description":"v1.04 Expand the number of movement options for the move\nroute events using this plugin.","parameters":{}},
 {"name":"YSP_VideoPlayer","status":true,"description":"v1.0.0 Plugin used for playing video.","parameters":{}},
